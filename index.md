@@ -6,7 +6,7 @@
 
 3) Sídlem politické strany je Praha.
 
-## Článek 2 Poslání a základní programové cíle
+## Článek 2 Poslání a základní programové cíle 555
 
 Svobodní vycházejí z iniciativy občanů České republiky, kteří si přejí žít ve svobodné a suverénní zemi, spravované státem, který chová úctu ke svým občanům, k jejich životu, majetku, svobodě a osobní odpovědnosti. Své cíle strana prosazuje férovým způsobem na základě svobodné diskuse demokratickými metodami při respektování platných právních předpisů.
 
